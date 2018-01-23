@@ -1,0 +1,43 @@
+body{
+  color:white;
+  font-family:Times New Roman;
+  background-color:black;
+margin: 25px 20px;
+}
+h1{
+  color:white;
+  font-size:50px;
+
+}
+p{
+  color:white;
+  font-size:20px;
+  font-style:italic;
+}
+.quotes{
+  background-color:black;
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+  color:white;
+}
+.quote{
+  font-size:30px;
+}
+.author{
+  font-size:20px;
+  font-style:italic;
+
+}
+.footer{
+  bottom:0px;
+  position:fixed;
+  text-align:center;
+  width: 100%;
+}
